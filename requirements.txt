@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-ollama
+sentence-transformers
+numpy<2
+chromadb
+streamlit
+pandas
